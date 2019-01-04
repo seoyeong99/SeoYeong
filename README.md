@@ -1,0 +1,2 @@
+# SeoYeong
+github pages
